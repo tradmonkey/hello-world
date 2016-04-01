@@ -1,2 +1,3 @@
 # hello-world
-Just anothr repository
+
+Hi Humans, here is some mad code! :-)
